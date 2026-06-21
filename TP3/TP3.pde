@@ -1,7 +1,6 @@
 PImage imagen;       //https://youtu.be/CJHBKxPy4qA
 
 int paso = 16;
-
 boolean activar = false;
 float fuerza = 0;
 
