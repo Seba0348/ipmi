@@ -1,4 +1,4 @@
-PImage imagen;
+PImage imagen;       //https://youtu.be
 
 int paso = 16;
 
