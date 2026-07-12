@@ -1,4 +1,4 @@
-PImage img;
+PImage img;            //https://youtu.be/JK8snVXc-tQ?si=MkyJ7tZyIR2XGgJh
 int paso = 16;
 int estado = 0;
 void setup() {
